@@ -24,7 +24,7 @@
 
 
            
-            
+            // Questions correct anwers
 
             double correctanwer1 = 20.5;
             double correctanwer2 = 10.5;
