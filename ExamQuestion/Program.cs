@@ -151,7 +151,7 @@
 
             {
                 Console.WriteLine($"sorry {studentName} you failed the test with score of {examresult}");
-
+                Console.WriteLine("Need score of 25 to pass the test");
             }
 
 
@@ -160,6 +160,7 @@
             {
 
                 Console.WriteLine($"Congrast!{studentName} you pass the exam with socre of {examresult}");
+                Console.WriteLine("Need score of 25 to pass the test");
             }
 
 

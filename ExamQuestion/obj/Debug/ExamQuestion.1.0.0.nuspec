@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExamQuestion</id>
+    <version>1.0.0</version>
+    <authors>ExamQuestion</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/joserodriguezrohttis/repo/Exam-Test-Program/ExamQuestion/bin/Debug/net6.0/ExamQuestion.runtimeconfig.json" target="lib/net6.0/ExamQuestion.runtimeconfig.json" />
+    <file src="/Users/joserodriguezrohttis/repo/Exam-Test-Program/ExamQuestion/bin/Debug/net6.0/ExamQuestion.dll" target="lib/net6.0/ExamQuestion.dll" />
+  </files>
+</package>
