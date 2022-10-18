@@ -59,7 +59,7 @@
             Console.WriteLine(" 3. What is the ressult of 56 + 10 ?");
             var useranswer3 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine(" 4. Waht is the 10% of 1000 ?");
+            Console.WriteLine(" 4. What is the 10% of 1000 ?");
             var useranswer4 = double.Parse(Console.ReadLine());
 
 
